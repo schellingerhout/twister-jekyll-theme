@@ -1,3 +1,9 @@
+This is a derivative of the original [DigitalMindCH/twister-jekyll-theme](https://github.com/DigitalMindCH/twister-jekyll-theme). 
+
+Most notaby grunt-sass has been replaced by grunt-contribute-sass, other changes are minor such as removing files and folder automatically generated and removing warnings related to newer versions of Sass and Jekyll.
+
+Original documentation follows:
+
 # Twister
 ![twister preview](/img/twister_preview_big.jpg)
 
