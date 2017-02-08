@@ -1,6 +1,10 @@
+
 The MIT License (MIT)
 
-Copyright (c) 2015 DigitalMindCH
+Copyright (c) 2017 Jasper Schellingerhout. 
+
+Derivative work based on work Copyright (c) 2015 DigitalMindCH. 
+Original work and license can be viewed here https://github.com/DigitalMindCH/twister-jekyll-theme
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
